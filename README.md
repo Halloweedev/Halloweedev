@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Halloweedev
+- 👀 I’m interested in dev, design, gaming, fitness
+- 🌱 I’m currently learning JavaFX
+- 💞️ I’m looking to collaborate on Minecraft Projects
+- 📫 How to reach me halloweed@tutamail.com
