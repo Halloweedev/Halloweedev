@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Halloweedev
 - > Currently building a few useful apps
 - 👀 I’m interested in dev, design, gaming, fitness
-- 💞️ I’m looking to collaborate on Minecraft Projects if any interest
-- 📫 How to reach me halloweed@tutamail.com
